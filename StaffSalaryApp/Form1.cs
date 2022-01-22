@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace StaffSalaryApp
 {
+    //Practice: Bonus Calculator
     public partial class Form1 : Form
     {
         public static double salary;
